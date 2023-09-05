@@ -1,0 +1,23 @@
+.red-text {
+    color: red;
+  }
+  
+  .green-text {
+    color: #11aa11;
+  }
+  .pass-badge {
+    background-color:#11aa11;
+    color: white;
+    padding: 5px;
+    /* border-radius: 5px; */
+  }
+  
+  .fail-badge {
+    background-color:red;
+    color: white;
+    padding: 5px;
+    /* border-radius: 5px; */
+  }
+  
+ 
+  
